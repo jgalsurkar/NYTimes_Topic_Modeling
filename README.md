@@ -21,3 +21,7 @@ We will implement the NMF algorithm using the divergence penalty. We will also s
 ## Results
 
 ![](./images/objective_plot.png)
+
+### Some Topic Examples
+
+![](./images/topic_examples.png)
